@@ -1,0 +1,4 @@
+export default {
+  accessToken: 'eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJlYiI6IllOb0lNVEVEekRQRkVMMDVaWUIxIiwianRpIjoiYWNjdG9rXzAwMDA5WGZXTFVnN2UwN3hCNzdKRXYiLCJ0eXAiOiJhdCIsInYiOiI1In0.4m7lXg-j0rO11axB3UMhBK7Bp1DU3EE2q_Zp0pm41aqABD_ZWVTI3jmRxJG9-KvzualGu5Jl0jH47gbNxsuonA',
+  api: 'https://api.monzo.com'
+}

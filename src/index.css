@@ -1,0 +1,23 @@
+html {
+  font-size: 10px; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 1.4rem; }
+
+section {
+  margin: 0 auto;
+  max-width: 50rem; }
+
+transaction-item {
+  background: #14233C;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border-radius: 1rem; }
+  transaction-item p {
+    color: #fff;
+    margin: 0; }
